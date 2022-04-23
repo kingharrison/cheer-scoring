@@ -2,7 +2,7 @@
 
 The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and judges have a way to reliably score them. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
 
-
+To address this, while keeping the parts of the score sheet that are working well in cheer, I have created a way to classify difficulty in skills and count them based off division size. Every coach, athlete, and parent could learn the rules and apply the principles below 
 
 
 
@@ -16,15 +16,15 @@ Any skill that was allowed in a previous level is considered an elemental skill,
 
 #### A Skills
 
-Any skill that is newly allowed in a level that was not allowed in the previous level, and is done to the bare minimum. 
+Any skill that is newly allowed in a level that was not allowed in the previous level, and is done to the bare minimum. *Example - A full up to smoosh in Level 3. Two standing backhandsprings in level 3. 
 
 #### B Skills
 
-Any skill that is performed one iteration above an A skill. 
+Any skill that is performed one iteration above an A skill. Skills performed in combination can be used to iterate to the next level. What determines if a skill is a combination is if the movement of one skill does not stop and is used to flow to the next skill. This will never take longer than 2 counts to transition at most.  *Example - A full up to half in level 3. 3 standing handsprings in level 3
 
 #### C-Z Skills
 
-For every subsequent letter each skill is one iteration above 
+For every subsequent letter each skill is one iteration above the previous level. There is no limit to iterations. 
 
 #### Examples of classifying skills. 
 
