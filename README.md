@@ -2,13 +2,11 @@
 
 The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and judges have a way to reliably score them. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
 
-To address this, while keeping the parts of the score sheet that are working well in cheer, I have created a way to classify difficulty in skills and count them based off division size. Every coach, athlete, and parent could learn the rules and apply the principles below 
-
-
+To address this, while keeping the parts of the score sheet that are working well in cheer, I have created a way to classify difficulty in skills and count them based off division size. Every coach, athlete, and parent could learn the rules and apply the principles below to figure out the difficulty score of a performance. 
 
 ### Classification of Skills
 
-Skills are classified in each level based off of what is newly allowed in the level. Difficulty scoring is only earned by doing skills that are allowd in the existing level, but not in the previous level. For level 1 any skill newly classifed as a certain element beings the classification of skills. 
+Skills are classified in each level based off of what is newly allowed in the level. Difficulty scoring is only earned by doing skills that are allowed in the existing level, but not in the previous level. For level 1 any skill newly classifed as a certain element beings the classification of skills. 
 
 #### Elemental Skills
 
@@ -26,17 +24,36 @@ Any skill that is performed one iteration above an A skill. Skills performed in 
 
 For every subsequent letter each skill is one iteration above the previous level. There is no limit to iterations. 
 
+### Skill Categories
+
+* Standing Tumbling
+* Running Tumbling
+* Jumps
+* Baskets
+* Stunts
+* Pyramid
+
 #### Examples of classifying skills. 
 
 ### Skill Divisors Based Off Division Size
 
-### Point Decay
 
 ### Counting Skills For Skill Difficulty Scoring
 
+Each performed skill for a classification is counted towards a total for a category. This means skills can be done in the routine at any time with any lettered skill level and be counted towards the total. 
+
+### Awarding Points For Skills Performed
+
+### Point Decay
+
+
 ### Execution Scoring
 
+Every routine will have execution scoring on the skills provided. This is done on the 6 skill categories. Execution scoring is deductive, and performed on the skills presented. If a skill is not performed (someone didn't go in tumbling or a stunt did not attempt to go up) it is not judged. The deductions come off the earned difficulty score. 
+
 ### Performance Scoring
+
+
 
 ### Judges Required And How To Score
 
@@ -67,40 +84,15 @@ Security Toten - every single day a competition is held there will be one unique
 
 ### Benefits
 
+The benefits of this sytem are as follows:
+* Repeatable difficulty scoring - The same difficulty score can b
+* Routines can now look multiple different ways
+* Faster competitions and scoring - As review is only for difficulty and happens separate this should not slow downt he release of scores. As well because scores are not comparative, this does not slow down entire divisions
+* Routine limits are removed - we have not capped where routines can go, so they can explore the space and find new ways to win and perform
+
 ### Challenges
 
 Currently there are some very odd things allowed in levels that would need to be addressed (but could be done rather easily if there was energy to get it done). 
 
 * The building skills between level 5 and 6 would need more defined seperation
 * Some building skills need to be adjusted by definition for being allowed for group but not coed (BHS up to extended in level 4 for example). This can be done by increasing the number of people required to be invovled for the skill
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingharrison/cheer-scoring/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
