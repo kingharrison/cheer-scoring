@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: [Open Source Cheer Scoring System]
+description: [This is an MIT Open Source Licensed Cheer Scoring System]
+markdown: kramdown
