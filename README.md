@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## Open License Cheer Scoring System
 
-You can use the [editor on GitHub](https://github.com/kingharrison/cheer-scoring/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and judges have a way to reliably score them. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+
+
+### Classification of Skills
+
+Skills are classified in each level based off of what is newly allowed in the level. Difficulty scoring is only earned by doing skills that are allowd in the existing level, but not in the previous level 
+
+### Skill Divisors Based Off Division Size
+
+### Point Decay
+
+### Counting Skills For Skill Difficulty Scoring
+
+### Execution Scoring
+
+### Performance Scoring
+
+Foundational Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
