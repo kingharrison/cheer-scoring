@@ -4,6 +4,8 @@ The purpose of this is to create a system of scoring in cheer that does not dire
 
 To address this, while keeping the parts of the score sheet that are working well in cheer, I have created a way to classify difficulty in skills and count them based off division size. Every coach, athlete, and parent could learn the rules and apply the principles below to figure out the difficulty score of a performance. 
 
+Point values are to be determined and can be adjusted as we learn how the system works. The key is the system is flexible to adjust (even as the year goes on). It is also not dependent on one set of level rules or a set level rules from a certain year. Nothing is explicitly defined, so this system can grow and change as things go on. *Note the examples are based off USASF rules as they are the most commonly known, but not required. 
+
 ### Classification of Skills
 
 Skills are classified in each level based off of what is newly allowed in the level. Difficulty scoring is only earned by doing skills that are allowed in the existing level, but not in the previous level. For level 1 any skill newly classifed as a certain element beings the classification of skills. 
@@ -26,6 +28,8 @@ For every subsequent letter each skill is one iteration above the previous level
 
 ### Skill Categories
 
+The six skill categories that make up a cheer routine. 
+
 * Standing Tumbling
 * Running Tumbling
 * Jumps
@@ -35,8 +39,19 @@ For every subsequent letter each skill is one iteration above the previous level
 
 #### Examples of classifying skills. 
 
+
+
 ### Skill Divisors Based Off Division Size
 
+For each division size there is a threshold of skills to be performed to get scored at a certain level. This takes into account the team aspect of cheer and that skills. To get a 
+
+While these divisors can adjust as needed as division sizes change, the starting values based off USASF divisions are:
+
+XS - 3
+Small - 4
+International 24 - 5
+Medium - 6
+Large - 7
 
 ### Counting Skills For Skill Difficulty Scoring
 
