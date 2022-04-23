@@ -20,6 +20,25 @@ Skills are classified in each level based off of what is newly allowed in the le
 
 ### Performance Scoring
 
+### Judges Required And How To Score
+
+All scoring panels will be made up of 5 people. 3 judges will be live scoring execution, 1 judge will be doing level judging (safety judging), 1 judge will be doing difficulty assessment. 
+
+#### Live Scoring Execution Judges
+
+This group of judges works pretty much exactly as scoring works now, but is a lot simpler by design so that the judges can watch and enjoy the routines. These judges only assess the quality and performance of the skills being executed, not the difficulty. This allows them the ability to reward creativity in skills without having to worry how hard something is. This is also the element that cannot be scored well over video.
+
+#### Level Judge
+
+Because of the nature of how we are scoring difficulty, all coaches will now have a more intimate relationship with the levels and what is legal in each. As well, it is in the coaches best interest to try and come up with skills that are several iterations away from the A skills. This will mean people will (on purpose or by accident) perform skills that are not level appropriate. The infractions are:
+
+Non-choreographed performance error out of level skill performed - each individual instance is not counted for the purposes of difficulty
+Choregraphed out of level skill - each individual instance removes one tally used for scoring
+
+### Video Review Of Difficulty / Level Skills And Performance Totem
+
+Not all competitions 
+
 Foundational Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
