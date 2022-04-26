@@ -1,6 +1,6 @@
 ## Open License Cheer Scoring System
 
-The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and judges have a way to reliably score them. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
+The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and anyone (judges/coaches/athletes/parents) have a consistent and reliable way to score where everyone can converge on the same score. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
 
 To address this, while keeping the parts of the score sheet that are working well in cheer, I have created a way to classify difficulty in skills and count them based off division size. Every coach, athlete, and parent could learn the rules and apply the principles below to figure out the difficulty score of a performance. 
 
@@ -13,6 +13,17 @@ Skills are classified in each level based off of what is newly allowed in the le
 #### Elemental Skills
 
 Any skill that was allowed in a previous level is considered an elemental skill, and not used for any difficulty scoring. These skills would be used for transitional or choreographical purposes. There is no penalty for performing elemental skills. **EXAMPLE** A forward roll in Level 2 would be consdered an elemental skill.
+
+#### Iterations
+
+One of the core concepts of this scoring system is something inherrently happening in cheerleading anyway, and that is iterations. Every skill has an interation to it that makes it more difficult. These iterations involve chaining together multiple skills to create combos, or performing a skill to a more difficult level. These benchmarks happen based off the legality of what is performed in level. Once we talk about examples, this will make more sense. 
+
+Iterations are:
+* Multipe newly available skills performed together without stopping
+* Non-repetive elemental skills added to newly availabe skills
+* Building skills performed / caught at a higher level of extension, to a body position, or using less bases
+
+This leads us to the letter classification of skills
 
 #### A Skills
 
@@ -53,14 +64,27 @@ International 24 - 5
 Medium - 6
 Large - 7
 
+Based off skill categories we multiple or divide the divisor based off the nature of the skill. For tumbling / jumps, we multiple the divisor by 3 to meet the divisor threshold. For baskets and stunts we keep the divisor as is. For pyramid we divide the number by 2 (and round to the next whole). 
+
 ### Counting Skills For Skill Difficulty Scoring
 
-Each performed skill for a classification is counted towards a total for a category. This means skills can be done in the routine at any time with any lettered skill level and be counted towards the total. 
+Each performed skill for a classification is counted towards a total for a category. This means skills can be done in the routine at any time with any lettered skill level and be counted towards the total. You are not penalized for doing skills in any particular order by lack of difficulty or grouping them together. 
 
 ### Awarding Points For Skills Performed
 
+Once all the skills for each skill category are counted and listed, we can now award points. We need enough counted skills to meet our divisor threshold. Your highest rated skills (as long as they meet the divisor threshold) are counted first. Your points are awarded from that first threshold, and always the highest first. If you do not have enough counted skills at the highest level to meet a threshold, the remaining skills are dropped down and grouped in the next skill category. Accumulating until we have enough to meet the divisor threshold. This allows scoring to have no cap. 
+
+
+
 ### Point Decay
 
+Every time you meet the divisor threshold for a skill, you are awarded points. The next time you are awarded points the amount has decreased for the skill category. This creates a natural point asymptope. There is no theoretical end, but each amount gets progressively harder to get to. 
+
+### Points Examples
+
+For the purposes of simplicity and our western bias to base 10 numbers, the skill category scoring will trend towards an asymptope of 15 (adding up to 90, and leaving 10 points availabe for the listed below). 
+
+We can use averages to figure out the average amount of skills performed per category, and use that to create our A level scoring. Each subsequent iteration can raise the value by .1. And then each subsequent scoring divisor can drop the amount available. 
 
 ### Execution Scoring
 
