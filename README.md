@@ -129,10 +129,11 @@ Security Toten - every single day a competition is held there will be one unique
 ### Benefits
 
 The benefits of this sytem are as follows:
-* Repeatable difficulty scoring - The same difficulty score can b
+* Repeatable difficulty scoring - The same difficulty score can consistently be calculated by multiple people
 * Routines can now look multiple different ways
 * Faster competitions and scoring - As review is only for difficulty and happens separate this should not slow downt he release of scores. As well because scores are not comparative, this does not slow down entire divisions
 * Routine limits are removed - we have not capped where routines can go, so they can explore the space and find new ways to win and perform
+* Cost effective judging panel (would require less judges than as needed today)
 
 ### Challenges
 
