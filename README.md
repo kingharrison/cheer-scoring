@@ -19,9 +19,11 @@ Any skill that was allowed in a previous level is considered an elemental skill,
 One of the core concepts of this scoring system is something inherrently happening in cheerleading anyway, and that is iterations. Every skill has an interation to it that makes it more difficult. These iterations involve chaining together multiple skills to create combos, or performing a skill to a more difficult level. These benchmarks happen based off the legality of what is performed in level. Once we talk about examples, this will make more sense. 
 
 Iterations are:
-* Multipe newly available skills performed together without stopping
-* Non-repetive elemental skills added to newly availabe skills
-* Building skills performed / caught at a higher level of extension, to a body position, or using less bases
+* Multiple newly available skills performed together without stopping 
+* Non-repetive elemental skills added to newly availabe skills (must be a skill that is scorable in a previous level)
+* Building skills performed / caught at a higher level of extension, to a body position, or using less bases (the start of all base scoring is done with 3. using 2 bases is one letter up, using 1 base is 2 letters up. If a skill is attempted as a 1 base but is assisted as 2, that drops a letter grade)
+* Adding at least one full rotation to move up a letter
+* Every legal level of stunt from smoosh, to half, to extended is a letter up.
 
 This leads us to the letter classification of skills
 
@@ -72,13 +74,16 @@ Each performed skill for a classification is counted towards a total for a categ
 
 ### Awarding Points For Skills Performed
 
-Once all the skills for each skill category are counted and listed, we can now award points. We need enough counted skills to meet our divisor threshold. Your highest rated skills (as long as they meet the divisor threshold) are counted first. Your points are awarded from that first threshold, and always the highest first. If you do not have enough counted skills at the highest level to meet a threshold, the remaining skills are dropped down and grouped in the next skill category. Accumulating until we have enough to meet the divisor threshold. This allows scoring to have no cap. 
+Once all the skills for each skill category are counted and listed, we can now award points. We need enough counted skills to meet our divisor threshold. Your highest rated skills (as long as they meet the divisor threshold) are counted first. Your points are awarded from that first threshold, and always the highest first. If you do not have enough counted skills at the highest level to meet a threshold, the remaining skills are dropped down and grouped in the next skill category. Accumulating until we have enough to meet the divisor threshold. This allows scoring to have no hard cap. 
 
+For each skill category, the first time you do something you will get awards 1.5 points. That will count down by .1 each subsequent time you do a scorable skill in the category until you reach .1 (on the 15th countable skill). At that point all skills from that moment on are worth .1. 
+
+Every letter above an A adds .1 to the skill section. If you perform enough B skills to meet your divisor in stunts and that is your hardest stunt, you will get a 1.6 for your first iteration. If you perform a G skill for your first divisor, you will get 2.1 for your first divisor. 
 
 
 ### Point Decay
 
-Every time you meet the divisor threshold for a skill, you are awarded points. The next time you are awarded points the amount has decreased for the skill category. This creates a natural point asymptope. There is no theoretical end, but each amount gets progressively harder to get to. 
+Every time you meet the divisor threshold for a skill, you are awarded points. The next time you are awarded points the amount has decreased for the skill category by .1. Once you reach .1 as the highest amount for your base A skill, all subsequent skills are rated .1 from there on (plus whatever letter skill upgrades there are). 
 
 ### Points Examples
 
@@ -88,11 +93,11 @@ We can use averages to figure out the average amount of skills performed per cat
 
 ### Execution Scoring
 
-Every routine will have execution scoring on the skills provided. This is done on the 6 skill categories. Execution scoring is deductive, and performed on the skills presented. If a skill is not performed (someone didn't go in tumbling or a stunt did not attempt to go up) it is not judged. The deductions come off the earned difficulty score. 
+Every routine will have execution scoring on the skills provided. This is done on the 6 skill categories. Execution scoring is deductive, and performed on the skills presented. If a skill is not performed (someone didn't go in tumbling or a stunt did not attempt to go up) it is not judged. The deductions come off the earned difficulty score. Falls or incompleted skills are never counted to your divisor, but also are subject to lowering execution. 
 
 ### Performance Scoring
 
-
+There is 10 points to be divided up to the judges for more subjective levels of of our sport: Dance, formations, creativity, and Overall Impression. (each with a 2.5 available points). 
 
 ### Judges Required And How To Score
 
