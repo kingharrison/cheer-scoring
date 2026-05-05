@@ -1,4 +1,4 @@
-## Open License Cheer Scoring System
+## Cheer Scoring System
 
 The purpose of this is to create a system of scoring in cheer that does not directly dictate how a team must create a routine to score well. Instead teams can create completely different verisons of routines to score well, and anyone (judges/coaches/athletes/parents) have a consistent and reliable way to score where everyone can converge on the same score. One of the major challenges of cheerleading is that parts of our sport are very subjective (the movement, the choreography, the dance) and the other part is very (in every athlete and coaches eyes) objective (though no one has classified how to make it objective). 
 
@@ -21,7 +21,7 @@ One of the core concepts of this scoring system is something inherrently happeni
 Iterations are:
 * Multiple newly available skills performed together without stopping 
 * Non-repetive elemental skills added to newly availabe skills (must be a skill that is scorable in a previous level)
-* Building skills performed / caught at a higher level of extension, to a body position, or using less bases (the start of all base scoring is done with 3. using 2 bases is one letter up, using 1 base is 2 letters up. If a skill is attempted as a 1 base but is assisted as 2, that drops a letter grade)
+* Building skills performed / caught at a higher level of extension, to a body position, or using less bases (the start of all base scoring is done with 3. Using 2 bases is one letter up, using 1 base is 2 letters up. If a skill is attempted as a 1 base but is assisted as 2, that drops a letter grade)
 * Adding at least one full rotation to move up a letter
 * Every legal level of stunt from smoosh, to half, to extended is a letter up.
 
@@ -53,10 +53,9 @@ The six skill categories that make up a cheer routine.
 #### Examples of classifying skills. 
 
 
-
 ### Skill Divisors Based Off Division Size
 
-For each division size there is a threshold of skills to be performed to get scored at a certain level. This takes into account the team aspect of cheer and that skills. To get a 
+For each division size there is a threshold of skills to be performed to get scored at a certain level. This takes into account the team aspect of cheer and that skills can be performed by varying amounts of people. 
 
 While these divisors can adjust as needed as division sizes change, the starting values based off USASF divisions are:
 
